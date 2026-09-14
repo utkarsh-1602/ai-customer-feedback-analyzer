@@ -1,0 +1,2 @@
+[functions.analyze-feedback]
+verify_jwt = false
